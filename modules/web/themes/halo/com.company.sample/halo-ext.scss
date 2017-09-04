@@ -1,0 +1,17 @@
+/* Define your theme modifications inside next mixin */
+@mixin com_company_sample-halo-ext {
+  .premium-grade {
+    background-color: red;
+    color: white;
+  }
+
+  .high-grade {
+    background-color: green;
+    color: white;
+  }
+
+  .standard-grade {
+    background-color: blue;
+    color: white;
+  }
+}
